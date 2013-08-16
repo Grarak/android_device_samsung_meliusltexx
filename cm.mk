@@ -1,4 +1,4 @@
-$(call inherit-product, device/samsung/meliuslte/full_meliusltexx.mk)
+$(call inherit-product, device/samsung/meliusltexx/full_meliusltexx.mk)
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/gsm.mk)
