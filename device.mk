@@ -21,6 +21,7 @@ DEVICE_PACKAGE_OVERLAYS += device/samsung/melius-common/overlay-gsm
 
 # Inherit from melius-common
 $(call inherit-product, device/samsung/melius-common/melius-common.mk)
+$(call inherit-product, device/samsung/melius-common/nfc.mk)
 
 # Permissions
 PRODUCT_COPY_FILES += \
