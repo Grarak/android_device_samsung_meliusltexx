@@ -21,7 +21,7 @@ $(call inherit-product, device/samsung/melius-common/melius-common.mk)
 $(call inherit-product, device/samsung/melius-common/nfc.mk)
 
 # Device overlay
-DEVICE_PACKAGE_OVERLAYS += device/samsung/serranoltexx/overlay
+DEVICE_PACKAGE_OVERLAYS += device/samsung/meliusltexx/overlay
 
 # Permissions
 PRODUCT_COPY_FILES += \
