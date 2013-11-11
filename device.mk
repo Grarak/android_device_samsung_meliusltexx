@@ -16,12 +16,12 @@
 # Also get non-open-source specific aspects if available
 $(call inherit-product-if-exists, vendor/samsung/meliusltexx/meliusltexx-vendor.mk)
 
-# Common overlays
-DEVICE_PACKAGE_OVERLAYS += device/samsung/melius-common/overlay-gsm
-
 # Inherit from melius-common
 $(call inherit-product, device/samsung/melius-common/melius-common.mk)
 $(call inherit-product, device/samsung/melius-common/nfc.mk)
+
+# Device overlay
+DEVICE_PACKAGE_OVERLAYS += device/samsung/serranoltexx/overlay
 
 # Permissions
 PRODUCT_COPY_FILES += \
