@@ -1,12 +1,6 @@
 [
     {
         "remote":       "github",
-        "repository":   "CyanogenMod/android_system_core",
-        "target_path":  "system/core",
-        "revision":     "cm-11.0"
-    },
-    {
-        "remote":       "github",
         "repository":   "CyanogenMod/android_device_generic_armv7-a-neon",
         "target_path":  "device/generic/armv7-a-neon",
         "revision":     "cm-11.0"
