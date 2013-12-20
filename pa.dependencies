@@ -70,5 +70,29 @@
         "repository":   "CyanogenMod/android_hardware_qcom_audio-caf",
         "target_path":  "hardware/qcom/audio-caf",
         "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "cm",
+        "repository":   "CyanogenMod/android_hardware_qcom_bt",
+        "target_path":  "hardware/qcom/audio-bt",
+        "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "cm",
+        "repository":   "CyanogenMod/android_hardware_qcom_msm8960",
+        "target_path":  "hardware/qcom/msm8960",
+        "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "cm",
+        "repository":   "CyanogenMod/android_hardware_qcom_power",
+        "target_path":  "hardware/qcom/power",
+        "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "cm",
+        "repository":   "CyanogenMod/android_hardware_qcom_wlan",
+        "target_path":  "hardware/qcom/wlan",
+        "revision":     "cm-11.0"
     }
 ]
