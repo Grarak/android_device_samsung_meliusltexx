@@ -94,5 +94,11 @@
         "repository":   "CyanogenMod/android_hardware_qcom_wlan",
         "target_path":  "hardware/qcom/wlan",
         "revision":     "cm-11.0"
+    },
+    {
+        "remote":       "cm",
+        "repository":   "CyanogenMod/android_system_qcom",
+        "target_path":  "system/core",
+        "revision":     "cm-11.0"
     }
 ]
