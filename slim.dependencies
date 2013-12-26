@@ -49,12 +49,6 @@
     },
     {
         "remote":       "cm",
-        "repository":   "CyanogenMod/android_hardware_qcom_gps",
-        "target_path":  "hardware/qcom/gps",
-        "revision":     "cm-11.0"
-    },
-    {
-        "remote":       "cm",
         "repository":   "CyanogenMod/android_hardware_qcom_display-caf",
         "target_path":  "hardware/qcom/display-caf",
         "revision":     "cm-11.0"
