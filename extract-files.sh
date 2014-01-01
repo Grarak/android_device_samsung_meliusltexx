@@ -2,6 +2,6 @@
 
 set -e
 
-export DEVICE=serranoltexx
+export DEVICE=meliusltexx
 export VENDOR=samsung
-./../serrano-common/extract-files.sh $@
+./../melius-common/extract-files.sh $@

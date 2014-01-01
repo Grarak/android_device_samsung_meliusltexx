@@ -21,16 +21,16 @@
 #
 
 # Inherit from common serrano
--include device/samsung/serrano-common/BoardConfigCommon.mk
+-include device/samsung/melius-common/BoardConfigCommon.mk
 
 # Inherit from the proprietary version
--include vendor/samsung/serranoltexx/BoardConfigVendor.mk
+-include vendor/samsung/meliusltexx/BoardConfigVendor.mk
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := serranolte,serranoltexx,i9195,GT-I9195
+TARGET_OTA_ASSERT_DEVICE := meliuslte,meliusltexx,i9205,GT-I9205
 
 # Kernel
-TARGET_KERNEL_VARIANT_CONFIG := msm8930_serrano_eur_lte_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := msm8930_melius_eur_lte_defconfig
 
 # NFC
 BOARD_HAVE_NFC := true
