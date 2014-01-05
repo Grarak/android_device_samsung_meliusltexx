@@ -4,9 +4,6 @@ PRODUCT_RELEASE_NAME := meliusltexx
 # Inherit some common Carbon stuff.
 $(call inherit-product, vendor/carbon/config/common_phone.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/carbon/config/nfc_enhanced.mk)
-
 # Inherit device configuration
 $(call inherit-product, device/samsung/meliusltexx/full_meliusltexx.mk)
 
