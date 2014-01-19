@@ -30,7 +30,7 @@ PRODUCT_BRAND := samsung
 PRODUCT_NAME := liquid_meliusltexx
 PRODUCT_MODEL := GT_I9205
 PRODUCT_MANUFACTURER := Samsung
-PRODUCT_PROPERTY_OVERRIDES += ro.buildzipid=liquid.jfltetmo.$(shell date +%m%d%y).$(shell date +%H%M%S)
+PRODUCT_PROPERTY_OVERRIDES += ro.buildzipid=liquid.meliusltexx.$(shell date +%m%d%y).$(shell date +%H%M%S)
 
 # override
 PRODUCT_BUILD_PROP_OVERRIDES += \
