@@ -1,19 +1,19 @@
 [
   {
-    "remote": "gh",
-    "repository": "CyanogenMod/android_device_samsung_qcom-common",
+    "remote": "cm",
+    "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
     "revision": "cm-11.0"
   },
   {
-    "remote": "gh",
-    "repository": "CyanogenMod/android_device_samsung_msm8930-common",
+    "remote": "cm",
+    "repository": "android_device_samsung_msm8930-common",
     "target_path": "device/samsung/msm8930-common",
     "revision": "cm-11.0"
   },
   {
-    "remote": "gh",
-    "repository": "CyanogenMod/android_kernel_samsung_msm8930-common",
+    "remote": "cm",
+    "repository": "android_kernel_samsung_msm8930-common",
     "target_path": "kernel/samsung/msm8930-common",
     "revision": "cm-11.0"
   },
