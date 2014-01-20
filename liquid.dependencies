@@ -7,13 +7,13 @@
   },
   {
     "remote": "gh",
-    "repository": "android_device_samsung_msm8930-common",
+    "repository": "CyanogenMod/android_device_samsung_msm8930-common",
     "target_path": "device/samsung/msm8930-common",
     "revision": "cm-11.0"
   },
   {
     "remote": "gh",
-    "repository": "android_kernel_samsung_msm8930-common",
+    "repository": "CyanogenMod/android_kernel_samsung_msm8930-common",
     "target_path": "kernel/samsung/msm8930-common",
     "revision": "cm-11.0"
   },
