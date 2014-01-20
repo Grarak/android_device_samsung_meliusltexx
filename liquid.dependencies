@@ -25,7 +25,7 @@
   },
   {
     "remote": "gh",
-    "repository": "sileshn/proprietary_vendor_samsung",
+    "repository": "sileshn/proprietary_vendor_samsung-melius",
     "target_path": "vendor/samsung",
     "revision": "cm-11.0"
   }
