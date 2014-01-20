@@ -1,5 +1,4 @@
 # system.prop for meliusltexx
-#
 
 # cannot take spaces
 rild.libargs=-d /dev/smd0
