@@ -26,23 +26,23 @@
     {
         "remote":       "cm",
         "repository":   "CyanogenMod/android_system_qcom",
-        "target_path":  "system/core",
+        "target_path":  "system/qcom",
         "revision":     "cm-11.0"
     },
     {
-        "remote":       "github",
+        "remote":       "gh",
         "repository":   "sileshn/android_device_samsung_meliusltexx",
         "target_path":  "device/samsung/meliusltexx",
         "revision":     "cm-11.0"
     },
     {
-        "remote":       "github",
+        "remote":       "gh",
         "repository":   "sileshn/android_device_samsung_melius-common",
         "target_path":  "device/samsung/melius-common",
         "revision":     "cm-11.0"
     },
     {
-        "remote":       "github",
+        "remote":       "gh",
         "repository":   "sileshn/proprietary_vendor_samsung-melius",
         "target_path":  "vendor/samsung",
         "revision":     "cm-11.0"
