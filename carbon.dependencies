@@ -43,7 +43,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "Pinky-Inky-and-Clyde",
+        "repository":   "sileshn/proprietary_vendor_samsung-melius",
         "target_path":  "vendor/samsung",
         "revision":     "cm-11.0"
     }
