@@ -92,7 +92,7 @@
     {
         "remote":       "cm",
         "repository":   "CyanogenMod/android_system_qcom",
-        "target_path":  "system/core",
+        "target_path":  "system/qcom",
         "revision":     "cm-11.0"
     },
     {
