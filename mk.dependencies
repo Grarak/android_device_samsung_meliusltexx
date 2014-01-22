@@ -37,12 +37,6 @@
     },
     {
         "remote":       "github",
-        "repository":   "sileshn/android_device_samsung_melius3gxx",
-        "target_path":  "device/samsung/melius3gxx",
-        "revision":     "cm-11.0"
-    },
-    {
-        "remote":       "github",
         "repository":   "sileshn/android_device_samsung_melius-common",
         "target_path":  "device/samsung/melius-common",
         "revision":     "cm-11.0"
