@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-$(call inherit-product, device/samsung/melius3gxx/full_meliusltexx.mk)
+$(call inherit-product, device/samsung/meliusltexx/full_meliusltexx.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
