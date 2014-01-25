@@ -28,7 +28,7 @@ $(call inherit-product, vendor/liquid/config/gsm_nolocales.mk)
 PRODUCT_DEVICE := meliusltexx
 PRODUCT_BRAND := samsung
 PRODUCT_NAME := liquid_meliusltexx
-PRODUCT_MODEL := GT_I9205
+PRODUCT_MODEL := GT-I9205
 PRODUCT_MANUFACTURER := Samsung
 PRODUCT_PROPERTY_OVERRIDES += ro.buildzipid=liquid.meliusltexx.$(shell date +%m%d%y).$(shell date +%H%M%S)
 
