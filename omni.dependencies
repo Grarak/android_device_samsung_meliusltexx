@@ -19,6 +19,18 @@
   },
   {
     "remote": "github",
+    "repository": "CyanogenMod/android_hardware_qcom_gps",
+    "target_path": "hardware/qcom/gps",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_system_qcom",
+    "target_path": "system/qcom",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "github",
     "repository": "CyanogenMod/android_device_samsung_msm8930-common",
     "target_path": "device/samsung/msm8930-common",
     "revision": "cm-11.0"
