@@ -96,12 +96,6 @@
         "revision":     "cm-11.0"
     },
     {
-        "remote":       "cm",
-        "repository":   "CyanogenMod/android_system_qcom",
-        "target_path":  "system/qcom",
-        "revision":     "cm-11.0"
-    },
-    {
         "remote":       "github",
         "repository":   "sileshn/android_device_samsung_melius-common",
         "target_path":  "device/samsung/melius-common",
