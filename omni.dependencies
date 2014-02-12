@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "silesh/android_device_samsung_melius-common",
+    "repository": "sileshn/android_device_samsung_melius-common",
     "target_path": "device/samsung/melius-common",
     "revision": "cm-11.0"
   },
