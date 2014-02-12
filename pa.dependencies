@@ -80,7 +80,7 @@
     {
         "remote":       "cm",
         "repository":   "CyanogenMod/android_hardware_qcom_bt",
-        "target_path":  "hardware/qcom/audio-bt",
+        "target_path":  "hardware/qcom/bt",
         "revision":     "cm-11.0"
     },
     {
