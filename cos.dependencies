@@ -23,6 +23,12 @@
         "target_path":  "device/samsung/qcom-common",
         "revision":     "cm-11.0"
     },
+	{
+        "project": "CyanogenMod",
+        "repository":   "android_device_qcom-common",
+        "target_path":  "device/qcom/common",
+        "revision":     "cm-11.0"
+    },
     {
         "project": "CyanogenMod",
         "repository":   "android_hardware_qcom_sensors",
