@@ -25,7 +25,7 @@
     },
 	{
         "remote":       "github",
-        "repository":   "CyanogenMod/android_device_qcom-common",
+        "repository":   "CyanogenMod/android_device_qcom_common",
         "target_path":  "device/qcom/common",
         "revision":     "cm-11.0"
     },
