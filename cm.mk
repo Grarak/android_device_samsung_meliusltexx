@@ -26,7 +26,7 @@ $(call inherit-product, device/samsung/meliusltexx/full_meliusltexx.mk)
 PRODUCT_DEVICE := meliusltexx
 PRODUCT_BRAND := Samsung
 PRODUCT_NAME := cm_meliusltexx
-PRODUCT_MODEL := GT-9205
+PRODUCT_MODEL := GT-I9205
 PRODUCT_MANUFACTURER := samsung
 
 # override
