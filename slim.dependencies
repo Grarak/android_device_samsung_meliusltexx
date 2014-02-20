@@ -5,7 +5,7 @@
         "branch": "cm-11.0"
     },
     {
-        "repository": "SlimRoms/hardware_samsung",
+        "repository": "CyanogenMod/android_hardware_samsung",
         "target_path": "hardware/samsung",
         "branch": "cm-11.0"
     },
@@ -25,9 +25,9 @@
         "branch": "cm-11.0"
     },
     {
-        "repository": "limRoms/hardware_qcom_media-caf",
+        "repository": "SlimRoms/hardware_qcom_media-caf-new",
         "target_path": "hardware/qcom/media-caf",
-        "branch": "cm-11.0"
+        "branch": "kk4.4"
     },
     {
         "repository": "CyanogenMod/android_hardware_qcom_gps",
@@ -35,23 +35,18 @@
         "branch": "cm-11.0"
     },
     {
-        "repository": "SlimRoms/hardware_qcom_display-caf",
+        "repository": "SlimRoms/hardware_qcom_display-caf-new",
         "target_path": "hardware/qcom/display-caf",
-        "branch": "cm-11.0"
+        "branch": "kk4.4"
     },
     {
         "repository": "SlimRoms/hardware_qcom_audio-caf",
         "target_path": "hardware/qcom/audio-caf",
-        "branch": "cm-11.0"
+        "branch": "kk4.4"
     },
     {
         "repository": "CyanogenMod/android_system_qcom",
         "target_path": "system/qcom",
-        "branch": "cm-11.0"
-    },
-    {
-        "repository": "sileshn/android_device_samsung_meliusltexx",
-        "target_path": "device/samsung/meliusltexx",
         "branch": "cm-11.0"
     },
     {
