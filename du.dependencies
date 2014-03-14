@@ -1,0 +1,32 @@
+[
+  {
+    "remote": "github",
+    "repository": "sileshn/android_device_samsung_melius-common",
+    "target_path": "device/samsung/melius-common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_kernel_samsung_msm8930-common",
+    "target_path": "kernel/samsung/msm8930-common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_samsung_msm8930-common",
+    "target_path": "device/samsung/msm8960-common",
+    "revision": "cm-11.0"
+  },
+  {
+    "remote": "du",
+    "repository": "android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "revision": "du44"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom",
+    "revision": "cm-11.0"
+  }
+]
