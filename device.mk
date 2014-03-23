@@ -13,9 +13,6 @@
 # limitations under the License.
 #
 
-# Also get non-open-source specific aspects if available
-$(call inherit-product-if-exists, vendor/samsung/meliusltexx/meliusltexx-vendor.mk)
-
 # Inherit from melius-common
 $(call inherit-product, device/samsung/melius-common/melius-common.mk)
 $(call inherit-product, device/samsung/melius-common/nfc.mk)
@@ -26,3 +23,7 @@ DEVICE_PACKAGE_OVERLAYS += device/samsung/meliusltexx/overlay
 # Permissions
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.telephony.gsm.xml:system/etc/permissions/android.hardware.telephony.gsm.xml
+
+# Ramdisk
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/rootdir/init.carrier.rc:root/init.carrier.rc
