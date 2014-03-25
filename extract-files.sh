@@ -2,6 +2,6 @@
 
 set -e
 
-export DEVICE=meliusltexx
+export DEVICE=melius-common
 export VENDOR=samsung
-./../melius-common/extract-files.sh $@
+./../$DEVICE/extract-files.sh $@
