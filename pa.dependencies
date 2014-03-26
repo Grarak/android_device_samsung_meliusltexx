@@ -25,12 +25,6 @@
     },
 	{
         "remote":       "cm",
-        "repository":   "CyanogenMod/android_device_qcom_common",
-        "target_path":  "device/qcom/common",
-        "revision":     "cm-11.0"
-    },
-    {
-        "remote":       "cm",
         "repository":   "CyanogenMod/android_hardware_qcom_sensors",
         "target_path":  "hardware/qcom/sensors",
         "revision":     "cm-11.0"

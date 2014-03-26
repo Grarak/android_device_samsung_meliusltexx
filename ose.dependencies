@@ -23,13 +23,7 @@
         "target_path":  "device/samsung/qcom-common",
         "revision":     "cm-11.0"
     },
-	  {
-        "remote":       "gh",
-        "repository":   "CyanogenMod/android_device_qcom_common",
-        "target_path":  "device/qcom/common",
-        "revision":     "cm-11.0"
-    },
-    {
+	{
         "remote":       "gh",
         "repository":   "sileshn/android_device_samsung_melius-common",
         "target_path":  "device/samsung/melius-common",

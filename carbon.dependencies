@@ -25,12 +25,6 @@
     },
 	{
         "remote":       "cm",
-        "repository":   "CyanogenMod/android_device_qcom_common",
-        "target_path":  "device/qcom/common",
-        "revision":     "cm-11.0"
-    },
-    {
-        "remote":       "cm",
         "repository":   "CyanogenMod/android_system_qcom",
         "target_path":  "system/qcom",
         "revision":     "cm-11.0"
