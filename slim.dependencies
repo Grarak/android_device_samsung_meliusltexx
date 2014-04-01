@@ -19,7 +19,12 @@
         "target_path": "device/samsung/qcom-common",
         "branch": "cm-11.0"
     },
-	{
+    {
+        "repository": "CyanogenMod/android_device_qcom_common",
+        "target_path": "device/qcom/common",
+        "branch": "cm-11.0"
+    },
+    {
         "repository": "SlimRoms/hardware_qcom_media-caf",
         "target_path": "hardware/qcom/media-caf",
         "branch": "kk4.4"
