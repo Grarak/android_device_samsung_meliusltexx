@@ -36,5 +36,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE=meliuslte \
     TARGET_BUILD_TYPE=user \
     BUILD_VERSION_TAGS=release-keys \
-    PRIVATE_BUILD_DESC="meliusltexx-user 4.2.2 JDQ39 I9200XXUAMEA release-keys" \
-    BUILD_FINGERPRINT="samsung/meliusltexx/melius3g:4.2.2/JDQ39/I9200XXUAMEA:user/release-keys"
+    PRIVATE_BUILD_DESC="meliusltexx-user 4.2.2 JDQ39 I9205XXUAMEA release-keys" \
+    BUILD_FINGERPRINT="samsung/meliusltexx:4.2.2/JDQ39/I9205XXUAMEA:user/release-keys"
