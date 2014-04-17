@@ -9,4 +9,4 @@ PRODUCT_NAME := mahdi_meliusltexx
 
 # Copy device specific prebuilt files.
 PRODUCT_COPY_FILES += \
-    vendor/mahdi/prebuilt/bootanimations/BOOTANIMATION-720x1280.zip:system/media/bootanimation.zip
+    vendor/mahdi/prebuilt/bootanimations/BOOTANIMATION-1280x768.zip:system/media/bootanimation.zip
