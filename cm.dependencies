@@ -12,6 +12,14 @@
     "target_path": "device/samsung/msm8930-common"
   },
   {
+    "repository": "android_device_samsung_melius-common",
+    "target_path": "device/samsung/melius-common"
+  },
+  {
+    "repository": "android_kernel_samsung_msm8930-common",
+    "target_path": "kernel/samsung/msm8930-common"
+  },
+  {
     "repository": "android_hardware_samsung",
     "target_path": "hardware/samsung"
   }

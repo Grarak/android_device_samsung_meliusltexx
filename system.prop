@@ -1,7 +1,7 @@
 # system.prop for meliusltexx
 #
 
-# cannot take spaces
+rild.libpath=/system/lib/libril-qc-qmi-1.so
 rild.libargs=-d /dev/smd0
 
 telephony.lteOnGsmDevice=1
