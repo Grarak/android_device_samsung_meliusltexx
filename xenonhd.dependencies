@@ -23,7 +23,7 @@
         "target_path": "kernel/samsung/msm8930-common",
         "revision": "cm-11.0"
     },
-    
+    {
         "remote": "cm",
         "repository": "android_system_qcom",
         "target_path": "system/qcom",
