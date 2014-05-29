@@ -18,6 +18,9 @@
 # Assert
 #TARGET_OTA_ASSERT_DEVICE := meliuslte,meliusltexx,i9205,GT-I9205
 
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
+
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8930_melius_eur_lte_defconfig
 TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7
