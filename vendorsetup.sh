@@ -1,1 +1,1 @@
-add_lunch_combo cm_meliusltexx-user
+add_lunch_combo cm_meliusltexx-userdebug
