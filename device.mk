@@ -27,3 +27,8 @@ PRODUCT_COPY_FILES += \
 # Ramdisk
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/init.carrier.rc:root/init.carrier.rc
+
+# Smart Cover
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.switch_code.sw_lid=0x15 \
+    ro.switch_code.sw_lid_invert=true
