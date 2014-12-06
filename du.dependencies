@@ -1,0 +1,56 @@
+[
+    {
+        "remote": "github",
+        "repository": "CyanogenMod/android_kernel_samsung_msm8930-common",
+        "target_path": "kernel/samsung/msm8930-common",
+        "branch": "cm-12.0"
+    },
+    {
+        "remote": "github",
+        "repository": "CyanogenMod/android_device_samsung_msm8930-common",
+        "target_path": "device/samsung/msm8930-common",
+        "branch": "cm-12.0"
+    },
+    {
+        "remote": "github",
+        "repository": "SlimRoms/device_samsung_qcom-common",
+        "target_path": "device/samsung/qcom-common",
+        "branch": "lp5.0"
+    },
+    {
+        "remote": "github",
+        "repository": "SlimRoms/device_qcom_common",
+        "target_path": "device/qcom/common",
+        "branch": "lp5.0"
+    },
+    {
+        "remote": "github",
+        "repository": "SlimRoms/hardware_qcom_media-caf",
+        "target_path": "hardware/qcom/media-caf/msm8960",
+        "branch": "lp5.0"
+    },
+    {
+        "remote": "github",
+        "repository": "SlimRoms/hardware_qcom_display-caf",
+        "target_path": "hardware/qcom/display-caf/msm8960",
+        "branch": "lp5.0"
+    },
+    {
+        "remote": "github",
+        "repository": "SlimRoms/hardware_qcom_audio-caf",
+        "target_path": "hardware/qcom/audio-caf/msm8960",
+        "branch": "lp5.0"
+    },
+    {
+        "remote": "github",
+        "repository": "sileshn/android_device_samsung_melius-common",
+        "target_path": "device/samsung/melius-common",
+        "branch": "du"
+    },
+    {
+        "remote": "github",
+        "repository": "sileshn/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch": "cm-12.0"
+    }
+]
