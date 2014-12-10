@@ -40,7 +40,7 @@ on init
 on boot
     chown system system /sys/class/leds/button-backlight/brightness
 
-    # Permissions for bluetooth
+# Permissions for bluetooth
     setprop ro.bt.bdaddr_path "/efs/bluetooth/bt_addr"
     chown bluetooth net_bt_stack ro.bt.bdaddr_path
     chown bluetooth net_bt_stack /dev/ttyHS0
@@ -50,10 +50,11 @@ on boot
     chown bluetooth net_bt_stack /sys/class/rfkill/rfkill0/type
 
 # Sensor
-    write /sys/class/input/input4/static_matrix "10000 0 0 0 10000 0 0 0 10000"
     write /sys/class/input/input5/static_matrix "10000 0 0 0 10000 0 0 0 10000"
-    
-     # Assign TCP buffer thresholds to be ceiling value of technology maximums
+    write /sys/class/input/input6/static_matrix "10000 0 0 0 10000 0 0 0 10000"
+    write /sys/class/input/input7/static_matrix "10000 0 0 0 10000 0 0 0 10000"
+
+    # Assign TCP buffer thresholds to be ceiling value of technology maximums
     # Increased technology maximums should be reflected here.
     write /proc/sys/net/core/rmem_max  2097152
     write /proc/sys/net/core/wmem_max  2097152
